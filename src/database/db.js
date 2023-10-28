@@ -14,7 +14,7 @@ const sequelize =
         username: 'postgres',
         password: 'admin',
         host: 'localhost',
-        database: 'image-uploader',
+        database: 'image_uploader',
         port: 5432,
         dialect: 'postgres',
         logging: false
